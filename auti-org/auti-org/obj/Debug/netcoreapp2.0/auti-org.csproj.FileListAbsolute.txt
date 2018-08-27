@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\auti-org\auti-org\bin\Debug\netcoreapp2.0\auti-org.deps.json
+C:\Users\Matheus\Desktop\auti-org\auti-org\bin\Debug\netcoreapp2.0\auti-org.runtimeconfig.json
+C:\Users\Matheus\Desktop\auti-org\auti-org\bin\Debug\netcoreapp2.0\auti-org.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\auti-org\auti-org\bin\Debug\netcoreapp2.0\auti-org.dll
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\auti-org\auti-org\bin\Debug\netcoreapp2.0\auti-org.pdb
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.dll
+C:\Users\Matheus\Desktop\auti-org\auti-org\obj\Debug\netcoreapp2.0\auti-org.pdb
